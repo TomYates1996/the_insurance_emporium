@@ -13,7 +13,7 @@ It isn't clear that the box headers are buttons.
 
 I will remove unnecessary and duplicate links. 
 I will remove superfluous text. 
-I'll make the whole box clickable.
+I'll make the whole box clickable and redesign the look of the section.
 
 3) Given more time what would you further improve?
 
