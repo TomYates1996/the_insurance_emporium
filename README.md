@@ -6,7 +6,8 @@
 It's busy, there's a lot going on in the small box. 
 There are a lot of options and text in the boxes and it looks a bit cluttered. 
 In some boxes there are multiple links that go to the same page. 
-It's not obvious where the links are. It isn't clear the box headers are buttons. Some things that seem clickable aren't.
+It's not obvious where all the clickable links are. Some things that seem clickable aren't.
+It isn't clear that the box headers are buttons. 
 
 2) How will you improve it?
 
